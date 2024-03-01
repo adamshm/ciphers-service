@@ -16,3 +16,4 @@ COPY ./ciphers_project ciphers_project/
 
 COPY ./entrypoint.sh .
 
+ENTRYPOINT [ "./entrypoint.sh" ]
