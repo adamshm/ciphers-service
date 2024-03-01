@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-axjmev$s-38lcbkj_rdfcydp5050tg+7rj62z%sd)y4m%$j^7#
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['ciphers-service-adamshm.onrender.com']
+ALLOWED_HOSTS = ['ciphers-service-adamshm.onrender.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
